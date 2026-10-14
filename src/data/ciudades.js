@@ -1,5 +1,5 @@
 const ciudades = [
-  { id: 1, nombre: 'Lima', pais: 'Perú', poblacion: 9700000, altitud: 154, fundacion: 1535, imagen:'https://unsplash.com/es/fotos/ciudad-costera-con-acantilados-que-dominan-las-olas-del-oceano-ieMzKs0_MbM'},
+  { id: 1, nombre: 'Lima', pais: 'Perú', poblacion: 9700000, altitud: 154, fundacion: 1535, imagen:'https://images.unsplash.com/photo-1777198498604-a924324d1eb2?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D'},
   { id: 2, nombre: 'Bogotá', pais: 'Colombia', poblacion: 7400000, altitud: 2640, fundacion: 1538, imagen:'https://www.skyscanner.es/destinos/consejos/las-10-mejores-cosas-que-ver-en-bogota'},
   { id: 3, nombre: 'Buenos Aires', pais: 'Argentina', poblacion: 28900000, altitud: 25, fundacion: 1536, imagen:'https://www.bens-lhotelpalermo.com/en/what-to-do-buenos-aires-argentina'},
   { id: 4, nombre: 'Ciudad de México', pais: 'México', poblacion: 9200000, altitud: 2240, fundacion: 1521, imagen:'https://www.nationalgeographicla.com/viajes/2024/03/las-3-curiosidades-sobre-la-ciudad-de-mexico-una-de-las-capitales-mas-antiguas'},
